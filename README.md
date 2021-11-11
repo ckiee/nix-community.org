@@ -54,7 +54,7 @@ If you see a project that is under-maintained, submit PRs to fix it as if it was
 
 If you need to contact the org owners, see [the list of org owners](https://github.com/orgs/nix-community/people?utf8=%E2%9C%93&query=+role%3Aowner).
 
-Come chat with us in [#nix-community](https://matrix.to/#/#nix-community:bethselamin.de) using the matrix protocol!
+Come chat with us in [#nix-community](https://matrix.to/#/#nix-community:nixos.org) using the matrix protocol!
 
 ## Sponsors
 
